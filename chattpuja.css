@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 89, 0);
+      text-align: center;  
+    float: inline-start;
+    color: black;
+    font-size: 20px;
+}
+img{
+    float: inline-start;
+    height: 400px;
+    width: 400px;
+    margin-inline-start: 100px;
+}
+.div1{
+    font-size: 60px;
+    /* text-align: center; */
+    float: inline-start;
+}
+.nav{
+    border: 3px solid black;
+    padding: 20px;
+}
+.div2{    
+    font-size: 35px;
+    text-align: center;
+    margin: 10px;
+}
+.div3{
+    font-size: 35px;
+    margin: 10px;
+    text-align: center;
+}
+.div4{
+    font-size: 35px;
+    margin: 10px;
+    text-align: center;
+}
+.div5{
+    font-size: 35px;
+    margin: 10px;
+    text-align: center;
+
+}

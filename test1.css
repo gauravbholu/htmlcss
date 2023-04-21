@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    
+    box-sizing: border-box;
+}
+
+.navbar{
+    /* border: 1px solid blue; */
+    padding: 20px;
+    margin: 10px;
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    /* background-color: darkcyan; */
+    
+}
+.cont{ 
+    display: flex;
+    
+}
+.left{
+    background-color: red;
+    height: 300px;
+    width: 25%;
+    padding: 5px;
+}
+.right{
+    background-color: rgb(14, 173, 236);
+    height: 300px;
+    width: 75%;
+    padding: 8px;
+}
+.cont1{
+    border: 2px solid red;
+    display: flex;
+}
+.left1{
+    background-color: blue;
+    height: 400px;
+    width: 15%;
+    padding: 5px;
+}
+.right1{
+    background-color: rgb(6, 249, 6);
+    height: 400px;
+    width: 70%;
+    padding: 8px;
+}
+
